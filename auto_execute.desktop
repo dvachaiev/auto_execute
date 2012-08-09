@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=Script to automatically execute a command when they finish downloading
+Comment[el]=Σενάριο για την αυτόματη αφαίρεση torrent μετά το πέρας λήψης ή σποράς
+Comment[en_GB]=Script to automatically execute a command when they finish downloading
+Comment[x-test]=xxScript to automatically execute a command when they finish downloadingxx
+Icon=system-run
+Name=Automatic Execute
+Name[el]=Αυτόματη Εκτέλεση
+Name[en_GB]=Automatic Execute
+Name[x-test]=xxAutomatic Executexx
+Name[zh_TW]=自動移除
+Type=KTorrentScript
+X-KTorrent-Script-Author=Spyros Papageorgiou
+X-KTorrent-Script-Email=spyros.papageorgiou@gmail.com
+X-KTorrent-Script-File=auto_execute.py
+X-KTorrent-Script-License=GPL
+X-KTorrent-Script-Website=http://ktorrent.org/
