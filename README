@@ -1,5 +1,5 @@
 Auto Execute
 ------------
 
-Simple extention for the KTorrent bit torrent client that executes a command specified by the user when a torrent finishes downloading.
+Simple extension for the KTorrent bit torrent client that executes a command specified by the user when a torrent finishes downloading.
 The first three command line arguments given to the command are the torrent infohash, torrent name and torrent directory.
